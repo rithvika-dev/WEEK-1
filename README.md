@@ -6,7 +6,7 @@ This folder contains my daily JavaScript learning progress and exercises for Wee
 
 The directory is organized by day:
 
-### `day-1(18-Feb-2026)`
+### `BASICS`
 Contains introductory JavaScript exercises:
 - `max2.js`: Finds the largest of two numbers using `if...else`.
 - `max3_ternary.js`: Finds the largest of three numbers using the ternary operator.
@@ -16,7 +16,7 @@ Contains introductory JavaScript exercises:
 - `search.js`: A function to search for an element in an array by value.
 - `max3_fn.js`: A reusable function to find the largest of three numbers.
 
-### `day-2(19-Feb-2026)`
+### `ARRAY-METHODS`
 Focuses on array and object manipulation in JavaScript.
 - `emp_methods.js`: Practice working with an array of employee objects. Includes operations like:
   - Inserting new objects at specific indices using `splice()`.
@@ -31,10 +31,4 @@ Run a file from your terminal by navigating to the specific day's folder and exe
 
 ```bash
 node <filename>.js
-```
-
-For example:
-```bash
-cd "day-1(18-Feb-2026)"
-node min.js
 ```
